@@ -17,6 +17,5 @@ end
 def valid_move?(board, index)
   if board[index] == " "
     return true
-    return true
   end
 end
